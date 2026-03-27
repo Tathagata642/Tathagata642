@@ -11,10 +11,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tathagata-chowdhury-a24184225**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tathagata chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tathagata chowdhury" height="30" width="40" /></a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tathagata642&show_icons=true&locale=en&layout=compact" alt="tathagata642" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tathagata642&show_icons=true&locale=en" alt="tathagata642" /></p>
